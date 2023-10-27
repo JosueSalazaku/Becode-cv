@@ -30,4 +30,13 @@ nav {
   font-size: x-large;
   font-weight: 700;
   text-decoration: none;
+  color: white;
+  padding: 20px;
+  border-bottom: solid 2px #63e;
+  gap: 50px;
+}
+
+nav a {
+  text-decoration: none;
+  color: white;
 }/*# sourceMappingURL=style.css.map */
