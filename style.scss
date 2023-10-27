@@ -8,6 +8,7 @@ body {
     width: 100vw;
     background-image: radial-gradient(125% 125% at 50% 10%, #000 40%, #63e 100%);
     background-repeat: no-repeat;
+    font-family: 'Poppins';
 }
 
 .container {
@@ -27,6 +28,7 @@ nav {
     align-items: center;
     padding-top: 25px;
     font-size: x-large;
+    font-weight: 700;
     text-decoration: none;
 }
 
